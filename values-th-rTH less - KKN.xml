@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
     <!-- Unit configuration   unit can add and delete freely, divided into 3 sections, each section is separated by "," -->
-    <string name="unit_name_mm">Millimeter(mm)</string>
+    <string name="unit_name_mm">มิลลิเมตร(มม.)</string>
     <string name="tv_new_name">New name</string>
     <!-- slogan of starting interface "Make" -->
     <string name="tvStartActSlogan">Easy Surveying /n Powerful Mapping</string>
